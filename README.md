@@ -1,2 +1,2 @@
 # MetaheuristicsLibrary
-generic implementation of metaheuristics in C#
+Generic implementation of metaheuristics in C#
